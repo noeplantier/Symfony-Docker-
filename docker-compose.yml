@@ -1,0 +1,6 @@
+services:
+  php:
+     ports:
+      - "8090:80" 
+
+
